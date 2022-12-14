@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background: #3333;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.div{
+    gap: 15px;
+    width: 500px;
+    height: 400px;
+    margin-top: 40px;
+    /* background: #000; */
+    /* margin-top: 50px; */
+    display: flex;
+
+}
+.box{
+    /* gap: 15px; */
+    margin-top: 10px;
+    width: 300px;
+    height: 400px;
+    box-shadow: 1px 0 10px #000000;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;
+    
+}
+button{
+
+    color:white;
+    background-color: red;
+    
+   
+}
